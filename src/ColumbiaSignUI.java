@@ -4,7 +4,7 @@ import java.awt.*;
 import java.io.File;
 
 
-/* so here is how github works*/
+/* so here is how github works  */
 
 
 public class ColumbiaSignUI extends JFrame {
